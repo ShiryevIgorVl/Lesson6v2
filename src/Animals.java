@@ -3,9 +3,8 @@ public class Animals {
     int run;
     int sail;
     int runMax;
-    // private int runCatMax;
     int sailMax;
-    // private int sailCatMax;
+
 
     public Animals (String name, int run, int sail, int runMax, int sailMax) {
         this.name = name;
